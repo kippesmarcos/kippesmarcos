@@ -60,6 +60,4 @@
 ### Estadísticas de GitHub
 <a href="http://www.github.com/kippesmarcos"><img src="https://github-readme-stats.vercel.app/api?username=kippesmarcos&show_icons=true&hide=&count_private=true&title_color=444e59&text_color=ffffff&icon_color=444e59&bg_color=1c1917&hide_border=true&show_icons=true" alt="Estadísticas de GitHub de kippesmarcos" /></a>
 
----
 
-¡Espero que encuentres útil esta traducción! Si tienes alguna pregunta o necesitas más información, ¡no dudes en preguntar!
