@@ -2,11 +2,11 @@
 
 Creo páginas web modernas, landing pages, tiendas simples y sistemas internos para negocios que necesitan vender, trabajar y organizarse mejor. También hago soporte técnico, mantenimiento de computadoras, hardware y conectividad.
 
-* 🌍 Buenos Aires, Argentina
-* 🖥️ Portfolio: [marcoskippes.com](https://marcoskippes.com)
-* ✉️ Contacto: [marcoskippes2005@gmail.com](mailto:marcoskippes2005@gmail.com)
-* 🚀 Disponible para proyectos freelance, webs comerciales y soporte IT
-* 🧠 Aprendiendo y mejorando con React, JavaScript, Python y herramientas modernas
+* Buenos Aires, Argentina
+* Portfolio: [marcoskippes.com](https://marcoskippes.com)
+* Contacto: [marcoskippes2005@gmail.com](mailto:marcoskippes2005@gmail.com)
+* Disponible para proyectos freelance, webs comerciales y soporte IT
+* Aprendiendo y mejorando con React, JavaScript, Python y herramientas modernas
 
 ### Qué puedo resolver
 
@@ -42,9 +42,3 @@ Creo páginas web modernas, landing pages, tiendas simples y sistemas internos p
   <a href="https://www.instagram.com/marcoskiippes/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" /></a>
   <a href="https://www.linkedin.com/in/kippesmarcos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
 </p>
-
-### Estadísticas
-
-<a href="https://github.com/kippesmarcos">
-  <img src="https://github-readme-stats.vercel.app/api?username=kippesmarcos&show_icons=true&hide_border=true&count_private=true&title_color=ff6675&text_color=ffffff&icon_color=ff6675&bg_color=0d1117" alt="Estadísticas de GitHub de Marcos Kippes" />
-</a>
