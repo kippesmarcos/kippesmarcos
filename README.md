@@ -1,63 +1,50 @@
-# Marcos Kippes
+## Desarrollador web + Técnico IT
 
+Creo páginas web modernas, landing pages, tiendas simples y sistemas internos para negocios que necesitan vender, trabajar y organizarse mejor. También hago soporte técnico, mantenimiento de computadoras, hardware y conectividad.
 
+* 🌍 Buenos Aires, Argentina
+* 🖥️ Portfolio: [marcoskippes.com](https://marcoskippes.com)
+* ✉️ Contacto: [marcoskippes2005@gmail.com](mailto:marcoskippes2005@gmail.com)
+* 🚀 Disponible para proyectos freelance, webs comerciales y soporte IT
+* 🧠 Aprendiendo y mejorando con React, JavaScript, Python y herramientas modernas
 
+### Qué puedo resolver
 
+* Webs responsive, landing pages y portfolios profesionales.
+* Catálogos y e-commerce básico con enfoque comercial.
+* Sistemas de ventas, inventario, caja, estadísticas y backups para negocios.
+* Mantenimiento, optimización, armado de PCs, hardware, redes y soporte técnico.
 
+### Proyectos destacados
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Programador
-* 🌍 Basado en Argentina
-* 🖥️ Consulta mi portafolio en [Mi portafolio](http://www.marcosezequielkippes.com.ar/es)
-* ✉️ Puedes contactarme en [kippesmarcos11@gmail.com](mailto:kippesmarcos11@gmail.com)
-* 🧠 Estoy aprendiendo React
-* 🤝 Abierto a colaborar en nuevos proyectos
+* [Faly HCF](https://ui-terminado-faly-api.vercel.app/) - web de productos gaming para servidor Minecraft, usada también como base para crear páginas comerciales personalizadas.
+* Sistema de ventas para negocios - panel interno con productos, ventas, caja, reportes, estadísticas, calendario y backups.
 
 ### Habilidades
+
 <p align="left">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-    <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-    <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-    <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,python,nodejs,vite,vercel,git,github" alt="JavaScript, TypeScript, React, HTML, CSS, Python, Node.js, Vite, Vercel, Git y GitHub" />
+  </a>
 </p>
 
-### Redes Sociales
 <p align="left">
-    <a href="https://discord.com/users/smashed." target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" /></a>
-    <a href="https://www.github.com/kippesmarcos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a>
-    <a href="http://www.instagram.com/kippesmarcoss" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" /></a>
-    <a href="https://www.linkedin.com/in/kippesmarcos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
-    <a href="https://www.x.com/kippesmarcoss" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" /></a>
+  <img src="https://img.shields.io/badge/Soporte_IT-servicio-ff6675?style=for-the-badge&labelColor=111111" alt="Soporte IT" />
+  <img src="https://img.shields.io/badge/Hardware-servicio-ff6675?style=for-the-badge&labelColor=111111" alt="Hardware" />
+  <img src="https://img.shields.io/badge/Redes-servicio-ff6675?style=for-the-badge&labelColor=111111" alt="Redes" />
+  <img src="https://img.shields.io/badge/E--commerce-web-ff6675?style=for-the-badge&labelColor=111111" alt="E-commerce" />
 </p>
 
-### Estadísticas de GitHub
-<a href="http://www.github.com/kippesmarcos"><img src="https://github-readme-stats.vercel.app/api?username=kippesmarcos&show_icons=true&hide=&count_private=true&title_color=444e59&text_color=ffffff&icon_color=444e59&bg_color=1c1917&hide_border=true&show_icons=true" alt="Estadísticas de GitHub de kippesmarcos" /></a>
+### Redes
 
+<p align="left">
+  <a href="https://github.com/kippesmarcos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a>
+  <a href="https://www.instagram.com/marcoskiippes/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" /></a>
+  <a href="https://www.linkedin.com/in/kippesmarcos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
+</p>
 
+### Estadísticas
+
+<a href="https://github.com/kippesmarcos">
+  <img src="https://github-readme-stats.vercel.app/api?username=kippesmarcos&show_icons=true&hide_border=true&count_private=true&title_color=ff6675&text_color=ffffff&icon_color=ff6675&bg_color=0d1117" alt="Estadísticas de GitHub de Marcos Kippes" />
+</a>
